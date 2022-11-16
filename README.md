@@ -10,7 +10,7 @@ GUI interface to modify led lights and create custom led setup for their G513 me
 ### prerequisites
 
 ```
-sudo apt install python3 python3-gi
+sudo apt install python3 python3-gi g810-led
 ```
 
 ### how to run
