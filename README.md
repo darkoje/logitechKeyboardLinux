@@ -1,7 +1,7 @@
 # Logitech G513 keyboard helper for Linux
 
-Program is written in Python.
-GUI interface to modify led lights and create custom led setup for their G513 mechanical keyboard.
+GUI interface to modify led lights and create custom led setup for their G513 mechanical keyboard. Program is written in Python.
+Minimum required Python version is 3.10.0
 
 ### changelog
 
