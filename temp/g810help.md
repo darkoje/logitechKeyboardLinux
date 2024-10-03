@@ -1,0 +1,2 @@
+- folder "g810-led" should be placed inside /etc/ folder
+- g810 should be installed

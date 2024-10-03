@@ -19,4 +19,9 @@ sudo apt install python3 python3-gi g810-led
 python3 gui.py
 ```
 
+### important notes
+
+Gui.py does not work with python 3.11 because python3-gi module was compiled for python 3.10.
+It works and was tested with python version 3.10.12
+
 Have fun!
